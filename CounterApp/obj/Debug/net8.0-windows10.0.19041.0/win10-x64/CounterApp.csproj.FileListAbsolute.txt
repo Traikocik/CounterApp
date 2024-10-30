@@ -195,3 +195,4 @@ E:\Projects\CounterApp\CounterApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64
 E:\Projects\CounterApp\CounterApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\reset.scale-150.png
 E:\Projects\CounterApp\CounterApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\reset.scale-200.png
 E:\Projects\CounterApp\CounterApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\reset.scale-400.png
+E:\Projects\CounterApp\CounterApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\CounterApp.sourcelink.json

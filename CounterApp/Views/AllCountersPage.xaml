@@ -17,7 +17,7 @@
                         <ImageButton WidthRequest="20" HeightRequest="20" Background="Transparent" Source="remove.png" Clicked="RemoveButton_Clicked" />
                     </StackLayout>
                     <Label Text="{Binding Name}" FontSize="40"/>
-                    <Label Text="{Binding Value}" FontSize="40"/>
+                    <Label x:Name="ValueLabelName" Text="{Binding Value}" FontSize="40"/>
                 </StackLayout>
             </DataTemplate>
         </CollectionView.ItemTemplate>
