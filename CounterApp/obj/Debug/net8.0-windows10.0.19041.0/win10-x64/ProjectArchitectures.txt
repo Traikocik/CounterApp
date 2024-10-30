@@ -1,0 +1,1 @@
+E:\Projects\CounterApp\CounterApp\CounterApp.csproj;x64
