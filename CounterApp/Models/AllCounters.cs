@@ -22,13 +22,20 @@ namespace CounterApp.Models
 
         public void SaveCounters()
         {
-            var document = new XDocument(new XElement("Counters",
-                Counters.Select(counter => new XElement("Counter",
+            var rootElement = new XElement("Counters");
+
+            foreach (var counter in Counters)
+            {
+                var counterElement = new XElement("Counter",
                     new XAttribute("Name", counter.Name),
                     new XAttribute("Value", counter.Value),
                     new XAttribute("InitialValue", counter.InitialValue),
-                    new XAttribute("Color", counter.CounterColor.ToHex())))));
+                    new XAttribute("Color", counter.CounterColor.ToHex()));
 
+                rootElement.Add(counterElement);
+            }
+
+            var document = new XDocument(rootElement);
             document.Save(FileName);
         }
 
@@ -38,17 +45,18 @@ namespace CounterApp.Models
             if (File.Exists(FileName))
             {
                 var document = XDocument.Load(FileName);
-                var counters = document.Root.Elements("Counter")
-                    .Select(x => new Counter(
-                        (string)x.Attribute("Name"),
-                        (int)x.Attribute("InitialValue"),
-                        Color.FromHex((string)x.Attribute("Color")))
-                    {
-                        Value = (int)x.Attribute("Value")
-                    });
 
-                foreach (var counter in counters)
+                foreach (var element in document.Root.Elements("Counter"))
+                {
+                    string name = element.Attribute("Name").Value;
+                    int initialValue = int.Parse(element.Attribute("InitialValue").Value);
+                    int value = int.Parse(element.Attribute("Value").Value);
+                    Color color = Color.FromHex(element.Attribute("Color").Value);
+
+                    Counter counter = new Counter(name, initialValue, value, color);
+
                     Counters.Add(counter);
+                }
             }
         }
     }

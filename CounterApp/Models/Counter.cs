@@ -21,5 +21,13 @@ namespace CounterApp.Models
             Value = initialValue;
             CounterColor = counterColor;
         }
+
+        public Counter(string name, int initialValue, int value, Color counterColor)
+        {
+            Name = name;
+            InitialValue = initialValue;
+            Value = value;
+            CounterColor = counterColor;
+        }
     }
 }

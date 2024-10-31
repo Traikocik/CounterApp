@@ -5,7 +5,7 @@ namespace CounterApp.Views;
 public partial class CounterPage : ContentPage
 {
     private Models.AllCounters AllCounters { get; set; }
-    private Color CounterColor { get; set; }
+    private Color CounterColor { get; set; } = Color.FromRgb(0, 0, 0);
 
     public CounterPage(Models.AllCounters allCounters)
     {
@@ -22,7 +22,11 @@ public partial class CounterPage : ContentPage
             await DisplayAlert("WARNING", "Counter's name is empty! It will be replaced with 'Counter'", "OK");
         }
 
-        int initialValue = int.TryParse(InitialValueEntry.Text, out int value) ? value : 0;
+        if (!int.TryParse(InitialValueEntry.Text, out int initialValue))
+        {
+            initialValue = 0;
+            await DisplayAlert("WARNING", "Counter's value is empty! It will be replaced with '0'", "OK");
+        }
 
         AllCounters.Counters.Add(new Models.Counter(name, initialValue, CounterColor));
         AllCounters.SaveCounters();

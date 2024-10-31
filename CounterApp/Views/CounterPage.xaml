@@ -6,7 +6,7 @@
     <StackLayout MaximumWidthRequest="1000" Padding="10" Margin="50" Spacing="20">
         <Entry x:Name="NameEntry" Placeholder="Enter counter name" />
         <Entry x:Name="InitialValueEntry" Placeholder="Enter initial value" Keyboard="Numeric" />
-        <StackLayout x:Name="ColorPicker" MaximumWidthRequest="500" Padding="30" >
+        <StackLayout x:Name="ColorPicker" MaximumWidthRequest="500" Padding="30" BackgroundColor="Black" >
             <Label Text="Select Color:" HorizontalOptions="Center" FontSize="24"/>
             <StackLayout Orientation="Vertical">
                 <Label Text="Red" />

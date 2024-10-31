@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "E:\\Projects\\CounterApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E3738933-78EB-4B35-86C3-749A460C036D}|CounterApp\\CounterApp.csproj|e:\\projects\\counterapp\\counterapp\\views\\allcounterspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3738933-78EB-4B35-86C3-749A460C036D}|CounterApp\\CounterApp.csproj|solutionrelative:counterapp\\views\\allcounterspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3738933-78EB-4B35-86C3-749A460C036D}|CounterApp\\CounterApp.csproj|E:\\Projects\\CounterApp\\counterapp\\views\\allcounterspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E3738933-78EB-4B35-86C3-749A460C036D}|CounterApp\\CounterApp.csproj|solutionrelative:counterapp\\views\\allcounterspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3738933-78EB-4B35-86C3-749A460C036D}|CounterApp\\CounterApp.csproj|E:\\Projects\\CounterApp\\counterapp\\models\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3738933-78EB-4B35-86C3-749A460C036D}|CounterApp\\CounterApp.csproj|solutionrelative:counterapp\\models\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3738933-78EB-4B35-86C3-749A460C036D}|CounterApp\\CounterApp.csproj|E:\\Projects\\CounterApp\\counterapp\\models\\allcounters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3738933-78EB-4B35-86C3-749A460C036D}|CounterApp\\CounterApp.csproj|solutionrelative:counterapp\\models\\allcounters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3738933-78EB-4B35-86C3-749A460C036D}|CounterApp\\CounterApp.csproj|E:\\Projects\\CounterApp\\counterapp\\views\\counterpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E3738933-78EB-4B35-86C3-749A460C036D}|CounterApp\\CounterApp.csproj|solutionrelative:counterapp\\views\\counterpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E3738933-78EB-4B35-86C3-749A460C036D}|CounterApp\\CounterApp.csproj|E:\\Projects\\CounterApp\\counterapp\\views\\counterpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3738933-78EB-4B35-86C3-749A460C036D}|CounterApp\\CounterApp.csproj|solutionrelative:counterapp\\views\\counterpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3738933-78EB-4B35-86C3-749A460C036D}|CounterApp\\CounterApp.csproj|E:\\Projects\\CounterApp\\counterapp\\views\\counterpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E3738933-78EB-4B35-86C3-749A460C036D}|CounterApp\\CounterApp.csproj|solutionrelative:counterapp\\views\\counterpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{E3738933-78EB-4B35-86C3-749A460C036D}|CounterApp\\CounterApp.csproj|E:\\Projects\\CounterApp\\counterapp\\models\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3738933-78EB-4B35-86C3-749A460C036D}|CounterApp\\CounterApp.csproj|solutionrelative:counterapp\\models\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3738933-78EB-4B35-86C3-749A460C036D}|CounterApp\\CounterApp.csproj|E:\\Projects\\CounterApp\\counterapp\\views\\allcounterspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E3738933-78EB-4B35-86C3-749A460C036D}|CounterApp\\CounterApp.csproj|solutionrelative:counterapp\\views\\allcounterspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3738933-78EB-4B35-86C3-749A460C036D}|CounterApp\\CounterApp.csproj|e:\\projects\\counterapp\\counterapp\\views\\allcounterspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3738933-78EB-4B35-86C3-749A460C036D}|CounterApp\\CounterApp.csproj|solutionrelative:counterapp\\views\\allcounterspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3738933-78EB-4B35-86C3-749A460C036D}|CounterApp\\CounterApp.csproj|E:\\Projects\\CounterApp\\counterapp\\models\\allcounters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3738933-78EB-4B35-86C3-749A460C036D}|CounterApp\\CounterApp.csproj|solutionrelative:counterapp\\models\\allcounters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,29 +34,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "CounterPage.xaml",
               "DocumentMoniker": "E:\\Projects\\CounterApp\\CounterApp\\Views\\CounterPage.xaml",
               "RelativeDocumentMoniker": "CounterApp\\Views\\CounterPage.xaml",
               "ToolTip": "E:\\Projects\\CounterApp\\CounterApp\\Views\\CounterPage.xaml",
               "RelativeToolTip": "CounterApp\\Views\\CounterPage.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABuAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABpAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-30T13:53:16.567Z"
+              "WhenOpened": "2024-10-30T13:53:16.567Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "CounterPage.xaml.cs",
               "DocumentMoniker": "E:\\Projects\\CounterApp\\CounterApp\\Views\\CounterPage.xaml.cs",
               "RelativeDocumentMoniker": "CounterApp\\Views\\CounterPage.xaml.cs",
               "ToolTip": "E:\\Projects\\CounterApp\\CounterApp\\Views\\CounterPage.xaml.cs",
               "RelativeToolTip": "CounterApp\\Views\\CounterPage.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBsAAABhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-30T13:53:46.619Z",
               "EditorCaption": ""
@@ -69,46 +70,46 @@
               "RelativeDocumentMoniker": "CounterApp\\Models\\Counter.cs",
               "ToolTip": "E:\\Projects\\CounterApp\\CounterApp\\Models\\Counter.cs",
               "RelativeToolTip": "CounterApp\\Models\\Counter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-30T13:56:04.868Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "AllCountersPage.xaml",
               "DocumentMoniker": "E:\\Projects\\CounterApp\\CounterApp\\Views\\AllCountersPage.xaml",
               "RelativeDocumentMoniker": "CounterApp\\Views\\AllCountersPage.xaml",
               "ToolTip": "E:\\Projects\\CounterApp\\CounterApp\\Views\\AllCountersPage.xaml",
               "RelativeToolTip": "CounterApp\\Views\\AllCountersPage.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAbAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-30T15:43:52.816Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "AllCountersPage.xaml.cs",
               "DocumentMoniker": "E:\\Projects\\CounterApp\\CounterApp\\Views\\AllCountersPage.xaml.cs",
               "RelativeDocumentMoniker": "CounterApp\\Views\\AllCountersPage.xaml.cs",
               "ToolTip": "E:\\Projects\\CounterApp\\CounterApp\\Views\\AllCountersPage.xaml.cs",
               "RelativeToolTip": "CounterApp\\Views\\AllCountersPage.xaml.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAmwEgAAAALAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAAcwDsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-30T13:52:40.854Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "AllCounters.cs",
               "DocumentMoniker": "E:\\Projects\\CounterApp\\CounterApp\\Models\\AllCounters.cs",
               "RelativeDocumentMoniker": "CounterApp\\Models\\AllCounters.cs",
               "ToolTip": "E:\\Projects\\CounterApp\\CounterApp\\Models\\AllCounters.cs",
               "RelativeToolTip": "CounterApp\\Models\\AllCounters.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA1AAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAvwBgAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-30T13:53:53.85Z",
               "EditorCaption": ""
